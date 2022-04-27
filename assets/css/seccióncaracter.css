@@ -1,0 +1,30 @@
+body {
+    margin: 0px;
+}
+
+.features {
+    text-align: center;
+    margin: 4em 0;
+    border: solid 1px #333;
+    padding: 1em;
+    color: #333;
+    background-color: gainsboro;
+    display: flow-root;
+}
+
+.features i {
+    display: block;
+    padding: 0.5em;
+}
+
+.feature {
+    width: 30%;
+    padding: 1.5%;
+    float: left;
+}
+
+.features h2 {
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+}

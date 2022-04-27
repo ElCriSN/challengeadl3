@@ -1,0 +1,19 @@
+.gallery{
+    padding: 50px 100px;
+}
+
+.photo {
+    display: inline-block;
+    width: 30%;
+    border: solid 1px #ccc;
+    margin: 0.75%;
+    padding: 0.75%;
+}
+
+.photo img {
+    width: 100%;
+}
+
+.photo p {
+    text-align: center;
+}

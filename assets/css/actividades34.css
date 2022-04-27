@@ -1,0 +1,9 @@
+.features {
+   background-color: lightblue;
+   display: flow-root;
+}
+
+p {
+    float: left;
+    width: 33%;
+}

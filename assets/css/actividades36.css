@@ -1,0 +1,35 @@
+li {
+    float: left;
+}
+    menu {
+    background-color: black;
+    color: white;
+    line-height: 50px;
+    display: flex-root;
+    }
+
+    body, menu {
+        padding: 0px;
+        margin: 0px;
+    }
+
+    menu ul{
+        margin: 0px;
+    }
+
+    menu {
+        background-color: black;
+        color: white;
+        line-height: 50px;
+        display: flex-root;
+    }
+
+    menu li {
+        display: float;
+        margin-right: 50px;
+    }
+
+    menu a {
+        color: white;
+        text-decoration: none;
+    }
